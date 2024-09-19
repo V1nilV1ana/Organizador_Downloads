@@ -36,7 +36,7 @@ Planilhas: {'.xls','.csv','.ods'}
 Powerpoints: {'.ppt','.pptx','.odp'}
 ```
 
-Para usar ele temos duas opções a primeira sendo usar o executavel e a segunda roda o script no CMD, para usar a segunda opção é preciso usar o comando **cd** para a pasta onde esta o script e usar esse comando em seguida:
+Para usar ele temos duas opções a primeira sendo usar o executavel que fica na pasta dist e a segunda roda o script no CMD, para usar a segunda opção é preciso usar o comando **cd** para a pasta onde esta o script e usar esse comando em seguida:
 
 ```
 python organizador_downloads.py
@@ -49,3 +49,7 @@ Link das bibliotecas usadas:
 [shutil](https://docs.python.org/pt-br/3/library/shutil.html)
 
 [pathlib](https://docs.python.org/pt-br/3.12/library/pathlib.html)
+
+Usado para construir o executavel
+
+[pyinstaller](https://pyinstaller.org/en/stable/)

@@ -1,5 +1,7 @@
 # Organizador_Downloads
-Um projeto que contem um script e um executável feito em Python para organizar arquivos da pasta downloads para suas pastas correta, apenas foi testado no windows, mas em teoria deveria funcionar corretamente em Linux e Mac por causa das biblioteca pathlib que procuraria se o caminho a partir da sua pasta home existiria e se não existe ele criaria a pasta e então após isso moveria os arquivos com o com o shutil.
+Um projeto que contem um script e um executável feito em Python para organizar arquivos da pasta downloads para suas pastas correta, apenas foi testado no windows. 
+
+Mas em teoria deveria funcionar corretamente em Linux e Mac por causa das biblioteca pathlib que procuraria se o caminho a partir da sua pasta home existiria e se não existe ele criaria a pasta e então após isso moveria os arquivos com o com o shutil.
 
 Para esse script e executavel funcionarem é necessario que o Python esteja instalado:
 https://www.python.org/downloads/
